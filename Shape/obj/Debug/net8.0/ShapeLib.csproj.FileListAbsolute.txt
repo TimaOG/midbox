@@ -1,0 +1,11 @@
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\bin\Debug\net8.0\ShapeLib.deps.json
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\bin\Debug\net8.0\ShapeLib.dll
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\bin\Debug\net8.0\ShapeLib.pdb
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\obj\Debug\net8.0\ShapeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\obj\Debug\net8.0\ShapeLib.AssemblyInfoInputs.cache
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\obj\Debug\net8.0\ShapeLib.AssemblyInfo.cs
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\obj\Debug\net8.0\ShapeLib.csproj.CoreCompileInputs.cache
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\obj\Debug\net8.0\ShapeLib.dll
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\obj\Debug\net8.0\refint\ShapeLib.dll
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\obj\Debug\net8.0\ShapeLib.pdb
+C:\Users\harha\OneDrive\Рабочий стол\test\Shape\obj\Debug\net8.0\ref\ShapeLib.dll
